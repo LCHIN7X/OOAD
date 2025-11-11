@@ -12,3 +12,9 @@ public class JavaIO{
 	  System.out.println("x + y = " + x + y);
 	}
 }
+
+//1.	What is the name of the class in this Java program?
+//2.	What should the filename of the program be saved as?
+//3.	What specifier replaces ‘%d’ if you wanted to print the string "one" instead of a digit?
+//4.	What is wrong with output in the last println statement?
+//5.	How do you fix the last println statement?
